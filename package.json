@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mappum/nomic.git"
+    "url": "git@github.com:botwillacceptanything/botwillacceptanything.git"
   },
   "keywords": [
     "nomic",
